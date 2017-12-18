@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "140669065205",
+    "firebase_url": "https://sc-analyzer-reporter.firebaseio.com",
+    "project_id": "sc-analyzer-reporter",
+    "storage_bucket": "sc-analyzer-reporter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140669065205:android:445c7f154886eabb",
+        "android_client_info": {
+          "package_name": "ch.collab.sc_reporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140669065205-hies7trng996h78ird2ln7nmtfanpttg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ch.collab.sc_reporter",
+            "certificate_hash": "3182cec11b95db21e2dc0e4abe3931531c9d7fa6"
+          }
+        },
+        {
+          "client_id": "140669065205-2815rbripmd8buo07ffk4m3pukv7oc5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_xl6prDOicD0JZgyjaScIGkn194Lam2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140669065205-2815rbripmd8buo07ffk4m3pukv7oc5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
